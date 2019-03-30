@@ -15,6 +15,6 @@ function logWhisper(string){
 }
 
 function sayHiToGrandMa(string){
-  
+  if (string === )
 }
 
