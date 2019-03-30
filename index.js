@@ -14,4 +14,4 @@ function logwhisper(string){
   console.log (`${string}.toLowerCase`)
 }
 
-logshout(test)
+logshout(:"test")
